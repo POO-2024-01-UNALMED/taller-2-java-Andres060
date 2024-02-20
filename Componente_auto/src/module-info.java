@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Componente_auto {
-}

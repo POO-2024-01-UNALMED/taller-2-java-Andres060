@@ -1,4 +1,4 @@
-package taller2Java;
+package test;
 
 public class Animal {
     String nombre;
